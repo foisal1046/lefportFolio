@@ -1,0 +1,72 @@
+
+h1{
+    color: #1b263b;
+}
+div i{
+    color: black;
+}
+.navbar{
+    background-color: #99B0A7;
+}
+.color span{
+    color: #34ed4a;
+}
+.topBanner{ 
+    background: linear-gradient(#D8F9DA,#00C698) ;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* .navbar .container-fluid .navHover .nav-link:hover {
+    color: #34ed4a ;
+} */
+
+
+.secBanner{ 
+    background: linear-gradient(#EEFDEF,#72BAFF) ;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.skillBanner{ 
+    background: linear-gradient(#A1CAF2,#C8FCEA) ;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.col div{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+/* .colend div{
+    justify-content: end;
+} */
+
+.divborbot{
+    border-bottom: 2px solid black;
+}
+.iconsz{
+    font-size: 2.5rem;
+    margin: 0px 2rem;
+    
+}
+
+.footer{
+    background: linear-gradient(#7AFAC4,#D4F4FF) ;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+}
+
